@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMapLocation</string>
+    <string name="hellomap">Welcome to My Maps</string>
+    <string name="enterAddress">Enter your address to find</string>
+    <string name="find">Find Me !</string>
+    <string name="findbrowser">Browser Search</string>
+    <string name="findmap">Search in Map</string>
+</resources>
